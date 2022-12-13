@@ -1,4 +1,4 @@
-package com.hoaxify.ws.error.configuration;
+package com.hoaxify.ws.configuration;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.AuthenticationException;

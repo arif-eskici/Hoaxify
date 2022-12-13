@@ -10,7 +10,6 @@ import ButtonWithProgress from './ButtonWithProgress';
 import { logoutSuccess, updateSuccess } from '../redux/authActions';
 import Modal from './Modal';
 
-
 const ProfileCard = (props) => {
     const [inEditMode, setInEditMode] = useState(false);
     const [updateDisplayName, setUpdateDisplayName] = useState();

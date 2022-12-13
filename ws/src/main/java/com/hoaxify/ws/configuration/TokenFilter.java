@@ -1,4 +1,4 @@
-package com.hoaxify.ws.error.configuration;
+package com.hoaxify.ws.configuration;
 
 import com.hoaxify.ws.auth.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.hoaxify.ws.error.configuration;
+package com.hoaxify.ws.configuration;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

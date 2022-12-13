@@ -1,6 +1,6 @@
 package com.hoaxify.ws.file;
 
-import com.hoaxify.ws.error.configuration.AppConfiguration;
+import com.hoaxify.ws.configuration.AppConfiguration;
 import com.hoaxify.ws.user.User;
 import org.apache.tika.Tika;
 import org.springframework.scheduling.annotation.EnableScheduling;
